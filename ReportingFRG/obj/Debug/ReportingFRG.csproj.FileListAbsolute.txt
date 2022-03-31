@@ -1,0 +1,11 @@
+c:\users\frg\documents\visual studio 2017\Projects\ReportingFRG\ReportingFRG\bin\Debug\ReportingFRG.exe.config
+c:\users\frg\documents\visual studio 2017\Projects\ReportingFRG\ReportingFRG\bin\Debug\ReportingFRG.exe
+c:\users\frg\documents\visual studio 2017\Projects\ReportingFRG\ReportingFRG\bin\Debug\ReportingFRG.pdb
+c:\users\frg\documents\visual studio 2017\Projects\ReportingFRG\ReportingFRG\obj\Debug\ReportingFRG.Form1.resources
+c:\users\frg\documents\visual studio 2017\Projects\ReportingFRG\ReportingFRG\obj\Debug\ReportingFRG.Properties.Resources.resources
+c:\users\frg\documents\visual studio 2017\Projects\ReportingFRG\ReportingFRG\obj\Debug\ReportingFRG.csproj.GenerateResource.Cache
+c:\users\frg\documents\visual studio 2017\Projects\ReportingFRG\ReportingFRG\obj\Debug\ReportingFRG.exe
+c:\users\frg\documents\visual studio 2017\Projects\ReportingFRG\ReportingFRG\obj\Debug\ReportingFRG.pdb
+c:\users\frg\documents\visual studio 2017\Projects\ReportingFRG\ReportingFRG\obj\Debug\ReportingFRG.csproj.ResolveComReference.cache
+C:\Users\FRG\Documents\Visual Studio 2017\Projects\ReportingFRG\ReportingFRG\obj\Debug\ReportingFRG.csproj.AssemblyReference.cache
+C:\Users\FRG\Documents\Visual Studio 2017\Projects\ReportingFRG\ReportingFRG\obj\Debug\ReportingFRG.csproj.CoreCompileInputs.cache
